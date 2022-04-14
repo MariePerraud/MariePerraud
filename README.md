@@ -1,11 +1,8 @@
-👋 Salut, Je suis Marie Perraud ! <br />
-Je démarre une reconversion professionnelle dans le développement web, du 28 février au 29 juillet. <br />
-A partir du mois d'aôut, je vais avoir besoin de faire un stage pour valider ma formation. <br />
+Après une expérience professionnelle de plus de 5 ans dans les ressources humaines, 2022 est pour moi, marquée par une reconversion professionnelle.
 
-👋 Hi, I’m Marie Perraud! <br />
-I'm starting a professional retraining in web development, from February 28th to July 29th. <br />
-From August, I will need to do a traineeship to valid my qualifications.
+Du 28 février jusqu'au 29 juillet, je suis en formation pour devenir Développeuse Web, avec à la clé un titre RNCP (niveau bac+2). Sur ces 5 mois, je me forme à JavaScript, React, Node, MySQL...
 
+Je suis à la recherche d'une entreprise pour m'accueillir en contrat d'alternance (1 semaine par mois en formation) à partir de septembre. Afin d'intégrer la formation "Développeur web et mobile avancé" et obtenir le titre RNCP "Concepteur Développeur d’Application".
 <!---
 
 --->
